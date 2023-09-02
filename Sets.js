@@ -81,3 +81,14 @@
 // console.log(myArray); // [1, 2]
 
 
+
+//clearing a set
+//const mySet = new Set();
+
+//mySet.add(1);
+//mySet.add(2);
+
+//mySet.clear();
+//console.log(mySet.size); // 0
+
+
